@@ -1,0 +1,13 @@
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.csprojAssemblyReference.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

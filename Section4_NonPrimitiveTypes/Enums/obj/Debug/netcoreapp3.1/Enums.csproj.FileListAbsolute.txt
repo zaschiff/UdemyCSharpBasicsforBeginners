@@ -1,0 +1,13 @@
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section4_NonPrimitiveTypes\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

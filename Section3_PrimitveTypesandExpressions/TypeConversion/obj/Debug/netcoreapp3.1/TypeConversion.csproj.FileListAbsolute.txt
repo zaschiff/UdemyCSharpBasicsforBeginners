@@ -1,0 +1,13 @@
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.exe
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.deps.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.runtimeconfig.dev.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\bin\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csprojAssemblyReference.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.csproj.CoreCompileInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfoInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.AssemblyInfo.cs
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section3_PrimitveTypesandExpressions\TypeConversion\obj\Debug\netcoreapp3.1\TypeConversion.genruntimeconfig.cache
