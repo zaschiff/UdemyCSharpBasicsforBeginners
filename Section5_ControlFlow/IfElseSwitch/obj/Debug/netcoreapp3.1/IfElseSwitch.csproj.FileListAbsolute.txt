@@ -1,0 +1,13 @@
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.exe
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.deps.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.runtimeconfig.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.runtimeconfig.dev.json
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\bin\Debug\netcoreapp3.1\IfElseSwitch.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.csprojAssemblyReference.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.AssemblyInfoInputs.cache
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.AssemblyInfo.cs
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.dll
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.pdb
+C:\Users\Zachm\Desktop\UdemyCSharpBasicsforBeginners\Section5_ControlFlow\IfElseSwitch\obj\Debug\netcoreapp3.1\IfElseSwitch.genruntimeconfig.cache
